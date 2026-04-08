@@ -10,4 +10,6 @@ Elas são muito melhores para inserções, facilitando o processo de inserção 
 
 # Recursão:
 
-É uma técnica que permite que uma função se chame repetidamente para resolver um problema, dividindo-o em subproblemas menores e mais gerenciáveis. Em termos de programação, uma função recursiva é aquela que se chama a si mesma. Para que uma função recursiva funcione corretamente, é crucial definir uma condição de parada, que immpede a execução infinita e garante que a funnção eventualmente termine. Essa condição é frequentemente referida como "caso base". 
+É uma técnica que permite que uma função se chame repetidamente para resolver um problema, dividindo-o em subproblemas menores e mais gerenciáveis. Em termos de programação, uma função recursiva é aquela que se chama a si mesma. 
+
+Para que uma função recursiva funcione corretamente, é crucial definir uma condição de parada, que immpede a execução infinita e garante que a funnção eventualmente termine. Essa condição é frequentemente referida como "caso base". 
