@@ -17,3 +17,4 @@ Para que uma função recursiva funcione corretamente, é crucial definir uma co
 ## Caso base: 
 É quando uma função não chama a si mesma novamente, de forma que o programa não se torna um loop infinito. 
 
+# Dividr para conquistar:
